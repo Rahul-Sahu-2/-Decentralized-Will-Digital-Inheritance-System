@@ -14,7 +14,8 @@ To solve the critical problem of lost cryptocurrency due to death or incapacitat
 - **Percentage-Based Distribution**: Flexible allocation to multiple beneficiaries with precise percentage splits
 - **Secure Fund Management**: All funds locked in smart contract until proper execution
 - **Transparent Execution**: Blockchain-recorded transactions with full event logging
-- **Trustless System**: No third-party custodians required, pure smart contract logic
+- **Trustless System**:
+ No third-party custodians required, pure smart contract logic
 
 ## Future Scope
 
@@ -25,4 +26,9 @@ To solve the critical problem of lost cryptocurrency due to death or incapacitat
 - Multi-chain deployment for broader accessibility
 - Legal framework integration for legally binding wills
 - Mobile dApp and hardware wallet integration
+
+
+contract addres = 0x34cB706b16e4373A980F8Daf3C89237B2bB3a5bb<img 
+ 
+
 
