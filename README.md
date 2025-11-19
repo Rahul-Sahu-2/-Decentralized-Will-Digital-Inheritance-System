@@ -1,3 +1,4 @@
+<img width="1919" height="820" alt="Screenshot 2025-11-18 143005" src="https://github.com/user-attachments/assets/9266c58a-ef54-4f58-b30a-f12c009d0150" />
 # Decentralized Will & Digital Inheritance System
 
 ## Project Description
@@ -30,5 +31,6 @@ To solve the critical problem of lost cryptocurrency due to death or incapacitat
 
 contract addres = 0x34cB706b16e4373A980F8Daf3C89237B2bB3a5bb<img 
  
+<img width="1919" height="820" alt="Screenshot 2025-11-18 143005" src="https://github.com/user-attachments/assets/908371aa-ff2d-40f2-837b-62755c9aa94f" />
 
 
